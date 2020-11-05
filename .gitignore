@@ -141,4 +141,4 @@ deploy
 .DS_Store
 
 # Data
-/data/*
+/data/rega/
